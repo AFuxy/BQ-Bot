@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "name": "bq-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deply": "node pushcommands",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFuxy/BQ-Bot.git"
+  },
+  "author": "AFuxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFuxy/BQ-Bot/issues"
+  },
+  "homepage": "https://github.com/AFuxy/BQ-Bot#readme",
+  "description": ""
+}
